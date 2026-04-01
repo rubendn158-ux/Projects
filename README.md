@@ -28,6 +28,4 @@ La consulta produce una tabla con:
 ## Ejecutar en DB Fiddle
 https://www.db-fiddle.com/f/r8LLBdFG7YFVFtUjpKAdY/18
 
--
-
 *Proyecto desarrollado como parte de portafolio para roles de Data Analyst / BI Analyst*
