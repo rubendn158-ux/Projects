@@ -15,9 +15,9 @@ Este proyecto implementa un análisis de segmentación de clientes basado en su 
 - **Análisis de cohortes** y segmentación de clientes
 
 ## Archivos
-- `consulta.sql`: Script completo con la lógica de segmentación
-- `presentacion.pdf`: Visualización explicativa del análisis
-- `resultado_ejemplo.csv`: Muestra del output generado
+- `segmentation_query.sql`: Script completo con la lógica de segmentación
+- `SQL Project RDM.pptx.pdf`: Visualización explicativa del análisis
+- `result_query_segmentation.csv.xlsx`: Muestra del output generado
 
 ## Resultado del análisis
 La consulta produce una tabla con:
